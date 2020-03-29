@@ -20,3 +20,4 @@ Para jugar se necesita:
   - Python 3.6
   - PyGame
 
+Canal de Youtube: https://www.youtube.com/channel/UCF5kM3jOzi0LzEfwQTYXkDg
