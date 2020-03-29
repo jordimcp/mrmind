@@ -10,7 +10,7 @@ Presionando sobre uno de los colores se selecciona el color, y presionando sobre
 se coloca el color. Cuando el jugador quiere checkear si la secuencia es correcta se debe presionar en la casilla
 más a la derecha de la fila en la que se está jugando.
 
-Después de checkeado la secuencia pueden aparecer unos colores entre la secuencia y la casilla del extremo.
+Después de haber checkeado la secuencia pueden aparecer unos colores entre la secuencia y la casilla del extremo.
   - Blanco: Una casilla tiene el color correcto pero no la posicion
   - Lima (verde): Una casilla tiene el color y la posición correcta
 
