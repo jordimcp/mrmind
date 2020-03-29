@@ -1,0 +1,2 @@
+# mrmind
+Juego en python 
