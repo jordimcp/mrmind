@@ -15,3 +15,8 @@ Después de checkeado la secuencia pueden aparecer unos colores entre la secuenc
   - Lima (verde): Una casilla tiene el color y la posición correcta
 
 Se acaba el juego cuando el jugador tiene 4 casillas verdes o lo ha intentado ya 10 veces.
+
+Para jugar se necesita:
+  - Python 3.6
+  - PyGame
+
