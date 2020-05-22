@@ -20,4 +20,7 @@ Para jugar se necesita:
   - Python 3.6
   - PyGame
 
+Una vez instalado:
+  - python main.py
+
 Canal de Youtube: https://www.youtube.com/channel/UCF5kM3jOzi0LzEfwQTYXkDg
