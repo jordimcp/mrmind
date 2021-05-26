@@ -22,5 +22,3 @@ Para jugar se necesita:
 
 Una vez instalado:
   - python main.py
-
-Canal de Youtube: https://www.youtube.com/channel/UCF5kM3jOzi0LzEfwQTYXkDg
